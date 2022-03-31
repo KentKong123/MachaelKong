@@ -5,7 +5,7 @@
 
 ![C++](https://img.shields.io/badge/-C++-%23F05032?style=for-the-badge&logo=C++&logoColor=%236495ED)
 ![QML](https://img.shields.io/badge/-QML-%23F05032?style=for-the-badge&logo=QML&logoColor=%239AFF9A)
-![JavaScript](https://img.shields.io/badge/-QML-%23F05032?style=for-the-badge&logo=JavaScript&logoColor=%239AFF9A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F05032?style=for-the-badge&logo=JavaScript&logoColor=%239AFF9A)
 
 ## 博客
 https://blog.csdn.net/MichaelKongChina
