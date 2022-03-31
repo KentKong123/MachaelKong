@@ -1,16 +1,10 @@
 ### Hi there 👋
 
 ## 技术栈 Github 统计
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MachaelKong&show_icons=true">
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-![C++]
-![QML]
-![JavaScript]
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<MachaelKong>&theme=<THEME_NAME>" />
 
 ## 博客
 https://blog.csdn.net/MichaelKongChina
 
-<!-- 访客 -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MachaelKong.MachaelKong" alt="visitor badge"/>
-</p>
